@@ -2,10 +2,6 @@
 # Generada por IPTV Hub 1.0.11 el 2026-10-20 20:30 · 1017 canales
 #EXTINF:-1 tvg-id="" tvg-name="El final de la Calle Oak (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El final de la Calle Oak (2026)
 https://weibplus.is/movie/hno_velasquez/Velasquez2022H/1720810.mkv
-#EXTINF:-1 tvg-id="MasPerfil.ar" tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-language="Spanish" tvg-country="AR" group-title="Argentina",+Perfil
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe (LAT) (2009)" tvg-logo="" group-title="AVENTURA - (LAT)",Harry Potter y el misterio del príncipe (LAT) (2009)
-https://weibplus.is/movie/arturo_joya/Joya2023A/1299826.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la orden del Fénix (LAT) (2007)" tvg-logo="" group-title="AVENTURA - (LAT)",Harry Potter y la orden del Fénix (LAT) (2007)
 https://weibplus.is/movie/hno_velasquez/Velasquez2022H/1299785.mp4
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-language="Spanish" tvg-country="AR" group-title="Argentina",A24 Ⓨ
