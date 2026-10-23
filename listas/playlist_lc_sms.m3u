@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD | MX" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",SPACE HD | MX
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/46178.ts
+#EXTINF:-1 tvg-id="Space.co" tvg-name="SPACE HD | MX" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="✮CINE PREMIUM✮",SPACE HD | MX
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/46179.ts
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",SPACE FHD
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/46180.ts
 #EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr HD | MX" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr HD | MX
 https://weibplus.is/live/hno_velasquez/Velasquez2022H/11937.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr
