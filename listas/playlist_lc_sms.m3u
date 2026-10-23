@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr HD | MX" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr HD | MX
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11938.ts
+#EXTINF:-1 tvg-id="Nick.co" tvg-name="NICKELODEON AR" tvg-logo="https://i.postimg.cc/k4QXtZLm/1280px-Nickelodeon-2023-logo-(outline)-svg.png" group-title="INFANTILES",NICKELODEON AR
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11939.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11940.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://i.ibb.co/y5GYMn4/cartihjgjh.png" group-title="INFANTILES",CARTOONITO HD
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/y5GYMn4/cartihjgjh.png" group-title="INFANTILES",Cartoonito
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11919.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="Cartoon Network HD" tvg-logo="https://i.ibb.co/b78pLRW/cartuyuthtg.png" group-title="INFANTILES",Cartoon Network HD
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11920.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://i.ibb.co/b78pLRW/cartuyuthtg.png" group-title="INFANTILES",Cartoon Network FHD
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://i.ibb.co/b78pLRW/cartuyuthtg.png" group-title="INFANTILES",Cartoon Network HD
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/b78pLRW/cartuyuthtg.png" group-title="INFANTILES",Cartoon Network
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/11923.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/y5GYMn4/cartihjgjh.png" group-title="INFANTILES",CARTOONITO
+https://weibplus.is/live/hno_velasquez/Velasquez2022H/146652.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H | Harry Potter" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24/7 - PELICULAS-N",24H | Harry Potter
 https://weibplus.is/live/hno_velasquez/Velasquez2022H/615766.ts
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter 20 Aniversario: Regreso a Hogwarts (LAT) (2022)" tvg-logo="" group-title="DOCUMENTAL - (LAT)",Harry Potter 20 Aniversario: Regreso a Hogwarts (LAT) (2022)
